@@ -1,0 +1,8 @@
+based on the porkline model
+1.Reduce the size of the selectors
+2.Remove the Lake side figures at the bottom
+3.The KG selector should only range from 1 to 30
+4.All subcomponents of the Build an order should be in the same Line only the checkout should stand alone
+5.Remove the credit information about Lakeside butchery.
+6.Enforce an API that will enable Mobile Money prompt on payment.
+7.Integrate a self checkout menu on which people can use Airtel,MTN or other banks.
